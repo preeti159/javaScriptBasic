@@ -1,4 +1,4 @@
-var sum = 5
+var sum = 0
 var nums = [2, 4, 6, 8, 10, 12]
 function averageCalculate(values){
     for(var i = 0; i<values.length; i++){
